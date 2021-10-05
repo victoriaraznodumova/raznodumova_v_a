@@ -6,4 +6,5 @@ void main() {
     list .add(int.parse(element));
   });
   print (list[0]+ list[1]);
+
 }
